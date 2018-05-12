@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34687#Kaukasische-vertellingenontmoeting-te-velde-met-een-moskousch-kameraad
 gutenberg_issued: '2010-12-18'
 gutenberg_type: Text
 identifiers:
