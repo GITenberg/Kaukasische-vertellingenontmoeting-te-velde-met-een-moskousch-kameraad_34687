@@ -1,0 +1,35 @@
+_repo: Kaukasische-vertellingenontmoeting-te-velde-met-een-moskousch-kameraad_34687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34687-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2010-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34687'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Russia. Armiia -- Military life -- Fiction'
+title: "Kaukasische vertellingen\r\nEene overvalling; Een houtkapping in het bosch;\
+  \ Een ontmoeting te velde met een moskousch kameraad"
+url: http://www.gutenberg.org/ebooks/34687
